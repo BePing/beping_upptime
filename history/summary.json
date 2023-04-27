@@ -4,17 +4,19 @@
     "url": "https://api.beping.be/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.beping.be.ico",
     "slug": "tab-t-rest",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1441,
-    "timeDay": 1300,
-    "timeWeek": 1463,
-    "timeMonth": 1441,
-    "timeYear": 1441,
-    "dailyMinutesDown": {}
+    "time": 1409,
+    "timeDay": 1224,
+    "timeWeek": 1378,
+    "timeMonth": 1409,
+    "timeYear": 1409,
+    "dailyMinutesDown": {
+      "2023-04-27": 0
+    }
   }
 ]
