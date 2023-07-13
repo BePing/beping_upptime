@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.beping.be.ico",
     "slug": "tab-t-rest",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 1761,
-    "timeDay": 2078,
-    "timeWeek": 1731,
-    "timeMonth": 1965,
-    "timeYear": 1761,
-    "dailyMinutesDown": {
-      "2023-07-12": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1769,
+    "timeDay": 2228,
+    "timeWeek": 1790,
+    "timeMonth": 1999,
+    "timeYear": 1769,
+    "dailyMinutesDown": {}
   }
 ]
