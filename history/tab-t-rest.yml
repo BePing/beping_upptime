@@ -1,7 +1,7 @@
 url: https://api.beping.be/v1/health
-status: down
-code: 502
-responseTime: 464
-lastUpdated: 2024-02-13T03:56:54.787Z
+status: up
+code: 200
+responseTime: 2112
+lastUpdated: 2024-02-13T04:07:46.421Z
 startTime: 2023-04-09T20:41:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
