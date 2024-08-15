@@ -1,7 +1,7 @@
 url: https://api.beping.be/v1/health/context
-status: down
-code: 404
-responseTime: 858
-lastUpdated: 2024-08-15T12:26:55.131Z
+status: up
+code: 200
+responseTime: 610
+lastUpdated: 2024-08-15T12:44:48.044Z
 startTime: 2023-04-09T20:41:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
