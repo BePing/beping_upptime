@@ -4,19 +4,19 @@
     "url": "https://api.beping.be/v1/health/context",
     "icon": "https://icons.duckduckgo.com/ip3/api.beping.be.ico",
     "slug": "tab-t-rest",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "71.02%",
-    "uptimeWeek": "86.11%",
-    "uptimeMonth": "91.41%",
+    "uptimeDay": "71.77%",
+    "uptimeWeek": "86.22%",
+    "uptimeMonth": "91.44%",
     "uptimeYear": "99.28%",
-    "time": 1224,
+    "time": 1225,
     "timeDay": 1161,
     "timeWeek": 1477,
     "timeMonth": 1249,
     "timeYear": 1058,
     "dailyMinutesDown": {
-      "2025-07-05": 270,
+      "2025-07-05": 259,
       "2025-07-04": 394,
       "2025-07-03": 232,
       "2025-07-02": 120,
@@ -42,7 +42,7 @@
       "2025-06-08": 95,
       "2025-06-07": 154,
       "2025-06-05": 25,
-      "2025-06-04": 16
+      "2025-06-04": 40
     }
   }
 ]
