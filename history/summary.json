@@ -6,17 +6,17 @@
     "slug": "tab-t-rest",
     "status": "up",
     "uptime": "98.76%",
-    "uptimeDay": "86.72%",
-    "uptimeWeek": "83.09%",
-    "uptimeMonth": "65.66%",
+    "uptimeDay": "89.27%",
+    "uptimeWeek": "83.21%",
+    "uptimeMonth": "65.81%",
     "uptimeYear": "97.12%",
     "time": 1445,
-    "timeDay": 2970,
-    "timeWeek": 2121,
-    "timeMonth": 1687,
-    "timeYear": 1219,
+    "timeDay": 2933,
+    "timeWeek": 2123,
+    "timeMonth": 1698,
+    "timeYear": 1218,
     "dailyMinutesDown": {
-      "2025-08-02": 167,
+      "2025-08-02": 155,
       "2025-08-01": 461,
       "2025-07-31": 2,
       "2025-07-30": 794,
@@ -36,7 +36,7 @@
       "2025-07-05": 366,
       "2025-07-04": 394,
       "2025-07-03": 232,
-      "2025-07-02": 99
+      "2025-07-02": 120
     }
   }
 ]
