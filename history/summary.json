@@ -4,7 +4,7 @@
     "url": "https://api.beping.be/v1/health/context",
     "icon": "https://icons.duckduckgo.com/ip3/api.beping.be.ico",
     "slug": "tab-t-rest",
-    "status": "up",
+    "status": "down",
     "uptime": "98.75%",
     "uptimeDay": "58.18%",
     "uptimeWeek": "80.34%",
@@ -13,7 +13,7 @@
     "time": 1282,
     "timeDay": 1595,
     "timeWeek": 1871,
-    "timeMonth": 1706,
+    "timeMonth": 1714,
     "timeYear": 1244,
     "dailyMinutesDown": {
       "2025-08-06": 601,
