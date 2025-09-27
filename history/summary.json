@@ -1,8 +1,8 @@
 [
   {
     "name": "TabT-Rest",
-    "url": "https://api.beping.be/v1/health/context",
-    "icon": "https://icons.duckduckgo.com/ip3/api.beping.be.ico",
+    "url": "https://api-v2.beping.be/v1/health/context",
+    "icon": "https://icons.duckduckgo.com/ip3/api-v2.beping.be.ico",
     "slug": "tab-t-rest",
     "status": "up",
     "uptime": "98.64%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "96.64%",
     "time": 1311,
-    "timeDay": 573,
-    "timeWeek": 582,
-    "timeMonth": 694,
+    "timeDay": 649,
+    "timeWeek": 600,
+    "timeMonth": 695,
     "timeYear": 1266,
     "dailyMinutesDown": {
       "2025-08-28": 22,
