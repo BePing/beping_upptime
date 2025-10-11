@@ -1,7 +1,7 @@
 url: https://api-v2.beping.be/v1/health/context
 status: up
 code: 200
-responseTime: 475
-lastUpdated: 2025-10-10T23:00:22.192Z
+responseTime: 600
+lastUpdated: 2025-10-11T23:00:26.275Z
 startTime: 2023-04-09T20:41:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
