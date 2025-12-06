@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "96.64%",
-    "time": 1151,
-    "timeDay": 687,
-    "timeWeek": 582,
-    "timeMonth": 599,
+    "time": 1152,
+    "timeDay": 690,
+    "timeWeek": 596,
+    "timeMonth": 601,
     "timeYear": 1171,
     "dailyMinutesDown": {
       "2025-11-18": 124,
@@ -42,5 +42,23 @@
       "2025-07-08": 352,
       "2025-07-07": 185
     }
+  },
+  {
+    "name": "AFTT/VTTL Backends",
+    "url": "https://api-v2.beping.be/v1/health",
+    "icon": "https://icons.duckduckgo.com/ip3/api-v2.beping.be.ico",
+    "slug": "aftt-vttl-backends",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 533,
+    "timeDay": 533,
+    "timeWeek": 533,
+    "timeMonth": 533,
+    "timeYear": 533,
+    "dailyMinutesDown": {}
   }
 ]
