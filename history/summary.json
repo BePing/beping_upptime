@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-v2.beping.be.ico",
     "slug": "be-ping-backends-x-aftt-vttl-connectivity",
     "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "34.58%",
+    "uptimeDay": "34.58%",
+    "uptimeWeek": "34.58%",
+    "uptimeMonth": "34.58%",
+    "uptimeYear": "34.58%",
     "time": 647,
     "timeDay": 647,
     "timeWeek": 647,
     "timeMonth": 647,
     "timeYear": 647,
     "dailyMinutesDown": {
-      "2025-12-06": 0
+      "2025-12-06": 162
     }
   },
   {
