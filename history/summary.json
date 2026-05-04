@@ -4,18 +4,19 @@
     "url": "https://api-v2.beping.be/v1/health/context",
     "icon": "https://icons.duckduckgo.com/ip3/api-v2.beping.be.ico",
     "slug": "be-ping-backends",
-    "status": "up",
-    "uptime": "95.83%",
-    "uptimeDay": "81.06%",
-    "uptimeWeek": "93.17%",
-    "uptimeMonth": "91.40%",
-    "uptimeYear": "95.83%",
+    "status": "down",
+    "uptime": "95.87%",
+    "uptimeDay": "80.94%",
+    "uptimeWeek": "93.15%",
+    "uptimeMonth": "91.63%",
+    "uptimeYear": "95.87%",
     "time": 1232,
     "timeDay": 671,
     "timeWeek": 639,
     "timeMonth": 1030,
     "timeYear": 1232,
     "dailyMinutesDown": {
+      "2026-05-04": 2,
       "2026-05-03": 273,
       "2026-04-28": 416,
       "2026-04-26": 86,
@@ -82,7 +83,7 @@
       "2026-01-09": 48,
       "2026-01-06": 33,
       "2026-01-05": 155,
-      "2026-01-04": 73
+      "2026-01-04": 12
     }
   },
   {
@@ -90,18 +91,19 @@
     "url": "https://api-v2.beping.be/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/api-v2.beping.be.ico",
     "slug": "be-ping-backends-x-aftt-vttl-connectivity",
-    "status": "up",
-    "uptime": "96.08%",
-    "uptimeDay": "81.58%",
+    "status": "down",
+    "uptime": "96.11%",
+    "uptimeDay": "81.56%",
     "uptimeWeek": "93.27%",
-    "uptimeMonth": "91.88%",
-    "uptimeYear": "96.08%",
+    "uptimeMonth": "92.10%",
+    "uptimeYear": "96.11%",
     "time": 870,
     "timeDay": 273,
     "timeWeek": 287,
     "timeMonth": 400,
     "timeYear": 870,
     "dailyMinutesDown": {
+      "2026-05-04": 0,
       "2026-05-03": 266,
       "2026-04-28": 413,
       "2026-04-26": 85,
@@ -167,7 +169,7 @@
       "2026-01-09": 47,
       "2026-01-06": 32,
       "2026-01-05": 155,
-      "2026-01-04": 69
+      "2026-01-04": 10
     }
   },
   {
