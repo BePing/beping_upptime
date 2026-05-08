@@ -4,19 +4,19 @@
     "url": "https://api-v2.beping.be/v1/health/context",
     "icon": "https://icons.duckduckgo.com/ip3/api-v2.beping.be.ico",
     "slug": "be-ping-backends",
-    "status": "up",
-    "uptime": "95.52%",
-    "uptimeDay": "71.05%",
-    "uptimeWeek": "81.11%",
-    "uptimeMonth": "89.47%",
-    "uptimeYear": "95.52%",
+    "status": "down",
+    "uptime": "95.54%",
+    "uptimeDay": "74.44%",
+    "uptimeWeek": "81.01%",
+    "uptimeMonth": "89.46%",
+    "uptimeYear": "95.54%",
     "time": 1203,
-    "timeDay": 634,
+    "timeDay": 669,
     "timeWeek": 666,
-    "timeMonth": 1020,
+    "timeMonth": 1032,
     "timeYear": 1203,
     "dailyMinutesDown": {
-      "2026-05-08": 359,
+      "2026-05-08": 368,
       "2026-05-07": 151,
       "2026-05-06": 203,
       "2026-05-05": 561,
@@ -78,8 +78,7 @@
       "2026-01-18": 103,
       "2026-01-17": 64,
       "2026-01-16": 209,
-      "2026-01-15": 48,
-      "2026-01-14": 44
+      "2026-01-15": 48
     }
   },
   {
@@ -87,16 +86,16 @@
     "url": "https://api-v2.beping.be/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/api-v2.beping.be.ico",
     "slug": "be-ping-backends-x-aftt-vttl-connectivity",
-    "status": "up",
-    "uptime": "95.83%",
-    "uptimeDay": "73.64%",
+    "status": "down",
+    "uptime": "95.85%",
+    "uptimeDay": "77.04%",
     "uptimeWeek": "82.82%",
-    "uptimeMonth": "89.92%",
-    "uptimeYear": "95.83%",
+    "uptimeMonth": "89.93%",
+    "uptimeYear": "95.85%",
     "time": 853,
-    "timeDay": 536,
+    "timeDay": 558,
     "timeWeek": 457,
-    "timeMonth": 367,
+    "timeMonth": 366,
     "timeYear": 853,
     "dailyMinutesDown": {
       "2026-05-08": 331,
@@ -160,8 +159,7 @@
       "2026-01-18": 99,
       "2026-01-17": 60,
       "2026-01-16": 205,
-      "2026-01-15": 47,
-      "2026-01-14": 42
+      "2026-01-15": 47
     }
   },
   {
@@ -178,7 +176,7 @@
     "time": 1413,
     "timeDay": 862,
     "timeWeek": 1226,
-    "timeMonth": 1324,
+    "timeMonth": 1322,
     "timeYear": 1413,
     "dailyMinutesDown": {
       "2026-04-05": 1,
@@ -200,7 +198,7 @@
     "time": 1356,
     "timeDay": 1058,
     "timeWeek": 1335,
-    "timeMonth": 1360,
+    "timeMonth": 1354,
     "timeYear": 1356,
     "dailyMinutesDown": {
       "2026-04-05": 2,
